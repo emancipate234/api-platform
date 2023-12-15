@@ -1,0 +1,8 @@
+server:
+  port: 7529
+  servlet:
+    context-path: /api
+api:
+  client:
+    access-key: yupi
+    secret-key: abcdefgh
